@@ -25,6 +25,7 @@ echo Current working directory: `pwd`
 
 ### Output:
 
+<img width="773" alt="answer1" src="https://user-images.githubusercontent.com/123646244/222345149-f84b6957-98d3-46e1-9e40-fa7d2453525d.png">
 
 
 
@@ -85,6 +86,7 @@ done
 
 ### Output:
 
+<img width="757" alt="table" src="https://user-images.githubusercontent.com/123646244/222345193-9631831d-0489-4ca5-8386-2070eb98f69b.png">
 
 
 
@@ -141,6 +143,7 @@ echo "$n is a prime number."
 
 ### Output:
 
+<img width="771" alt="answer3" src="https://user-images.githubusercontent.com/123646244/222345221-a99fb0c8-f5f5-485e-b5ce-3770fa0fe617.png">
 
 
 
@@ -174,6 +177,7 @@ ls -al /Users/ratinderpalsingh/Desktop
 
 ### Output:
 
+<img width="817" alt="answer4" src="https://user-images.githubusercontent.com/123646244/222345257-1a5e3d41-5e3f-450e-bdec-13e0c54cfd54.png">
 
 
 ### Question 5. You have given an array. Using Bash script, print its length, maximum element and minimum element.  
@@ -224,3 +228,4 @@ echo "Minimum element is: $min"
 
 ### Output:  
 
+<img width="782" alt="answer5" src="https://user-images.githubusercontent.com/123646244/222345294-b2734edf-6edf-4b1b-a229-19aa13dbe303.png">
