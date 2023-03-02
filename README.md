@@ -25,7 +25,7 @@ echo Current working directory: `pwd`
 
 ### Output:
 
-<img width="623" alt="Screenshot 2023-02-18 at 10 24 39 PM" src="https://user-images.githubusercontent.com/122514456/219878187-a41d239c-48ff-491f-8a3b-b9293d635f53.png">
+
 
 
 ### Question 2. Write a bash script (name Table.sh) to print the Table of a number by using a while loop. It should support the following requirements.
@@ -85,7 +85,7 @@ done
 
 ### Output:
 
-<img width="644" alt="Screenshot 2023-02-18 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122514456/219879594-ae331bc5-8b7f-4da3-a2b2-640cfabb9562.png">
+
 
 
 ### Question 3. Write a Function in bash script to check if the number is prime or not? It should support the following requirement.  
@@ -141,7 +141,7 @@ echo "$n is a prime number."
 
 ### Output:
 
-<img width="642" alt="Screenshot 2023-02-18 at 10 50 54 PM" src="https://user-images.githubusercontent.com/122514456/219879626-8880c770-4586-458f-a068-26535e0feafe.png">
+
 
 
 ### Question 4. Create a bash script that supports the following requirement.  
@@ -174,9 +174,6 @@ ls -al /Users/ratinderpalsingh/Desktop
 
 ### Output:
 
-<img width="624" alt="Screenshot 2023-02-18 at 10 51 52 PM" src="https://user-images.githubusercontent.com/122514456/219879668-7868fd4e-235e-4bcf-aea4-ed212edc6a14.png">  
-
-<img width="538" alt="Screenshot 2023-02-18 at 11 22 34 PM" src="https://user-images.githubusercontent.com/122514456/219880913-5274bfc0-f488-4c4b-aae4-eee437a7481e.png">
 
 
 ### Question 5. You have given an array. Using Bash script, print its length, maximum element and minimum element.  
@@ -227,4 +224,3 @@ echo "Minimum element is: $min"
 
 ### Output:  
 
-<img width="624" alt="Screenshot 2023-02-18 at 10 52 26 PM" src="https://user-images.githubusercontent.com/122514456/219879703-f3c13f33-89bd-4379-84f2-d985432f9bac.png">
