@@ -165,7 +165,7 @@ cat Table.sh >> ~/Documents/Assignment/File1.txt
 Appending the text "Welcome to Sigmoid" in File1.txt  
 echo "Welcome to Sigmoid" >> ~/Documents/Assignment/File1.txt  
 Displaying all the directories and files present in the Desktop folder  
-ls -al /Users/ratinderpalsingh/Desktop  
+ls -al /Users/akshay/Desktop  
 
 ### Explanation:  
 ● Used mkdir command to create a directory in the Documents directory.  
