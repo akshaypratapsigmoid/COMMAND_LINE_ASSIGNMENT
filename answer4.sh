@@ -8,4 +8,4 @@ cat Table.sh >> ~/Documents/Assignment/File1.txt
 # Appending the text "Welcome to Sigmoid" in File1.txt
 echo "Welcome to Sigmoid" >> ~/Documents/Assignment/File1.txt
 # Displaying all the directories and files present in the Desktop folder
-ls -al /Users/akshaypratapsingh/Desktop
+ls -al /Users/akshay/Desktop
